@@ -1,5 +1,4 @@
 body {
-    font-family: Arial, sans-serif;
     text-align: center;
     background-color: black;
 }
@@ -21,7 +20,7 @@ body {
 .square {
     width: 40px;
     height: 40px;
-    background-color: gray;
+    background-color: rgb(29, 29, 29);
     transition: background-color 1s ease; /* Smooth color change transition */
     cursor: pointer;
 }
